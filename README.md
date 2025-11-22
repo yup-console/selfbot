@@ -58,6 +58,7 @@ This Python script uses `discord.py-self` to create a user account automation wi
 ```bash
 git clone https://github.com/yup-console/selfbot
 cd selfbot
+nano main.py [ add token and your user id ]
 python main.py
 ```
 if modules aren't installed use this commands
